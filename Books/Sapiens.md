@@ -1,4 +1,5 @@
 # Sapiens: A Brief History of Humankind
+
 Author: [[@Yuval Noah Harari]]
 Date Finished: [[2020-06-30]]
 Why: [[@Farah]] recommended I read this book
@@ -43,6 +44,9 @@ Part Three: The Unification of Humankind
 ### 11 Imperial Visions
 
 ### 12. The Law of Religion
+- **Natural Law religion**: a religion that believes the world is subject to natural laws rather than divine will
+	- Example: [[Buddhism]]
+		- **Dharma** or **Dhamma**: suffering comes from craving, so the only way to be free from suffering is to be free from craving, and the only way to be free from craving is to experience reality as is.
 
 ### 13. The Secret of Success
 
@@ -53,10 +57,13 @@ Part Four: The Scientific Revolution
 ### 15. The Marriage of Science and Empire
 
 ### 16. The Capitalist Creed
+- The Entrepreneur's Dilemma
+- The Magic Circle of the Modern Economy
 
 ### 17. The Wheels of Industry
 
 ### 18. A Permanent Revolution
+- [[Imagined communities]]
 
 ### 19. And They Lived Happily Ever After
 

@@ -1,0 +1,2 @@
+* A trope in which a white character saves non-white characters in unfortunate circumstances.
+	> This white savior is often portrayed as a man who is out of place within his own society, until he assumes the burden of racial leadership to rescue non-white minorities and foreigners from their suffering. 
