@@ -1,7 +1,7 @@
 # The Choice: Embrace the Possible
 
 Author: [[@Edith Eger]]
-Date Finished:
+Date Finished: [[2020-11-05]]
 Why:
 Tags: #History #Psychology
 

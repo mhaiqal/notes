@@ -1,5 +1,22 @@
-* **Metadata**
-	* **Author:** [[Paul Hawken]]
-	* **Reading status:** #reading
-	* **Recommended By:** I probably heard about it in one of the environmental classes I took.
-	* **Tags:** #books #sustainability
+# Drawdown
+
+Author: [[@Paul Hawken]]
+Date Finished: 
+Why: I probably heard about it in one of the environmental classes I took.
+Tags: #Sustainability #Science #Environment #Climate-Change
+
+---
+
+## Review
+
+---
+
+## Literature Notes
+
+---
+
+## Fleeting Notes
+
+---
+
+## Permanent Notes

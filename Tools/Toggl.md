@@ -1,6 +1,8 @@
-* **Metadata**
-	* **Website:** https://toggl.com/
-	* **Tags:** #apps #productivity
+# Toggl
+Website: https://toggl.com/
+Tags: #Productivity
+
+---
 
 ## Thoughts
 * Requires practice to get into the habit of turning on and off timers

@@ -1,7 +1,7 @@
 The term white saviour refers to a white person who provides help to non-white people in a self-serving manner.
 
-* [[White saviour trope in film]]
-	* A trope in which a white character saves non-white characters in unfortunate circumstances.
+- [[White saviour trope in film]]
+	- A trope in which a white character saves non-white characters in unfortunate circumstances.
 	> This white savior is often portrayed as a man who is out of place within his own society, until he assumes the burden of racial leadership to rescue non-white minorities and foreigners from their suffering. 
 
 ## Reference

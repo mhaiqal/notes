@@ -1,3 +1,6 @@
-* **Metadata**
-	* **Website:** https://reederapp.com/
-	* **Tags:** #apps
+# Reeder
+
+Website: https://reederapp.com/
+Tags:
+
+---

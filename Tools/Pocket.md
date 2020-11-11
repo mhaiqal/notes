@@ -1,3 +1,6 @@
-* **Metadata**
-	* **Website:** https://getpocket.com/
-	* **Tags:** #apps
+# Pocket
+
+Website: https://getpocket.com/
+Tags:
+
+---
